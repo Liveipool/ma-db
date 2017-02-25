@@ -1,4 +1,5 @@
-# Ma-db
+# Ma-db   
+My-Achievements项目的后端代码，不是最终包，最终的包在Gitlab上。    
 
 1. npm install
 2. run 'node bin/automigrate.js' to migrate data to mongodb
